@@ -16,7 +16,7 @@ This program will help you to delete an FaceBook account or page by the fact tha
   <a href="https://tinyurl.com/bdejx265"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>  
 
----
+----
 
 **Legal Notice**
 
